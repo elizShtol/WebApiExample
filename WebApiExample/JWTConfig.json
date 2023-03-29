@@ -1,0 +1,7 @@
+﻿{
+  "Jwt": {
+    "Issuer": "https://mydomen.com/",
+    "Audience": "https://mydomen.com/",
+    "JwtKey": "This is a sample secret key - please don't use in production environment."
+  }
+}
